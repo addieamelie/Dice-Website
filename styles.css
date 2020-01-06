@@ -1,0 +1,48 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #fcb2bf;
+}
+
+h1,
+h2 {
+  margin: 30px;
+  font-family: "Roboto Slab", serif;
+}
+
+h1 {
+  text-shadow: 5px 0 #801336;
+  font-size: 6rem;
+  color: #c72c41;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #801336;
+}
+
+p {
+  font-size: 2rem;
+  color: #f67280;
+  font-family: "Delius Unicase", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #000;
+  text-align: center;
+  font-family: "Delius Unicase", cursive;
+}
